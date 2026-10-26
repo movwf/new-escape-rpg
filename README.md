@@ -3,6 +3,11 @@
 A small tile-based movement game built with React and Vite. Pick a character and
 a map, then move around the map while fences and walls block your path.
 
+## Screenshots
+
+![Run-Escape Game Screen](https://i.ibb.co/ZWJcZWD/run-escape.png)
+![Settings Screen](https://i.ibb.co/yRCGR0y/run-escape2.png)
+
 ## Run the project
 
 ```bash
